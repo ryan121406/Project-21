@@ -1,2 +1,2 @@
-# Project-21
-Testing the effectiveness of bullets against walls
+# p5.play-boilerplate
+Boiler plate for p5.play
